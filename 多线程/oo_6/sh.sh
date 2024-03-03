@@ -1,0 +1,1 @@
+./datainput_student_win64.exe | java -jar oo_6.jar

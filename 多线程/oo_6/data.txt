@@ -1,0 +1,6 @@
+[1.1]MAINTAIN-Elevator-1
+[1.3]MAINTAIN-Elevator-2
+[1.5]MAINTAIN-Elevator-3
+[1.7]MAINTAIN-Elevator-4
+[1.9]2-FROM-1-TO-10
+[2.0]MAINTAIN-Elevator-5

@@ -1,0 +1,19 @@
+{
+    "1": [
+        "-ask2checkOut(guestName:String, roomId:int):void",
+        "+checkOut(roomId:int):void",
+        "-workerName:String",
+        "Dispatcher",
+        "finishClean",
+        "isCleanOperation()"
+    ],
+    "2": [
+        "DIS_REC_CHECKIN_FAILED",
+        "replyCheckOut(request);",
+        "arrangeClean4CheckOut(request);",
+        "arrangeCleanOnly(Request request)",
+        "RoomState.OCCUPIED",
+        "RequestTag.CLE_DIS_CLEAN_CHECKOUT.equals(request.getRequestTag())"
+    ],
+    "3": "我们在设计程序时,应该尽量减少模块间的交互复杂度,这样在有新需求来进行迭代开发时,就可以很快的进行增加要求的实现类或者方法,避免了大幅度的对原有代码的更改,更不容易出bug,而高内聚的实现就可以让我们在增加功能时只在某个类的内部来进行更改,而避免了交互的复杂性,更加高效"
+}

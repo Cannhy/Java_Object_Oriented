@@ -1,0 +1,39 @@
+Test begin:
+Test .\input\4.in:
+Accepted
+Test .\input\7.in:
+Accepted
+Test .\input\11.in:
+Accepted
+Test .\input\14.in:
+Accepted
+Test .\input\6.in:
+Accepted
+Test .\input\1.in:
+Accepted
+Test .\input\8.in:
+Accepted
+Test .\input\17.in:
+Accepted
+Test .\input\10.in:
+Accepted
+Test .\input\15.in:
+Accepted
+Test .\input\12.in:
+Accepted
+Test .\input\5.in:
+Accepted
+Test .\input\20.in:
+Accepted
+Test .\input\13.in:
+Accepted
+Test .\input\2.in:
+Accepted
+Test .\input\3.in:
+Accepted
+Test .\input\16.in:
+Accepted
+Test .\input\18.in:
+Accepted
+Test .\input\19.in:
+Accepted

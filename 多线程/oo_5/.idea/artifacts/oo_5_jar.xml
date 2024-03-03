@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="oo_5:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="root">
+      <element id="archive" name="oo_5.jar">
+        <element id="module-output" name="oo_5" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../elevator-1.jar" />
+    </root>
+  </artifact>
+</component>
